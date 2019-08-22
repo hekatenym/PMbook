@@ -1,9 +1,8 @@
-* [写在前面](/README)
-* [指南](object/input)
+* [写在前面](/home)
+* [指南](/object/input)
+* [README](/README)
 
 
  
 
 
- 
-* [微博|说给产品]（https://weibo.com/candywx）
