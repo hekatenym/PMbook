@@ -1,4 +1,4 @@
-* [写在前面](README)
+* [写在前面](/README)
 * [指南](object/input)
 
 
