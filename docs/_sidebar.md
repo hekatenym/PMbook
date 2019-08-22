@@ -1,5 +1,5 @@
 * [写在前面](README)
-* [指南](input)
+* [指南](object/input)
 
 
  
