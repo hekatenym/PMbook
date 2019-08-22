@@ -18,7 +18,7 @@
 <br> 填写提示一般使用placeholder或者单独的小字提示，可以在focus状态显示也可以是
 
 ## 文本框（Input box）
-![](assets/input.png)
+![](../assets/input.png)
 
 
 一个文本框应该包括以下属性：
